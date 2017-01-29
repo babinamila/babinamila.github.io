@@ -1,0 +1,110 @@
+* {
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: plum; 
+	color: navy;
+	font-family: 'Acme', sans-serif;
+}
+	
+h2 {
+	color: purple;
+	text-decoration: underline;
+	font-family: 'Gloria Hallelujah', cursive;
+	font-family: 'Acme', sans-serif;
+}
+li {
+	color: navy; 
+	font-family: 'Pacifico', cursive; 
+	font-style: italic;
+	font-size: 25; 
+	padding: 10px 20px; 
+}
+img {
+	height:200px; 
+	width: auto;
+}
+
+
+#welcome {
+	color: blue;
+}
+
+li{
+	color: red;
+	text-align: center;
+	width: 33%; 
+	float: right;
+	border: 2px solid teal;
+}
+
+
+.animal {
+	color: blue;
+}
+
+.mammal {
+	color: green; 
+}
+
+.fish {
+	color:yellow;
+}
+
+.bird {
+	color: purple;
+}
+
+#best-animal {
+	background-color:gray;
+}
+
+.other {
+	color: orange;
+}
+
+#one-two {
+	background-color: salmon; 
+
+}
+#one-two:hover {	
+	background-color:orange;
+}
+
+
+#three-four {
+	background-color: sienna;
+}
+
+#five-six {
+	background-color: blue;
+}
+
+.mammal {
+	font-weight: bold;
+}
+
+.bird {
+	font-style: italic; 
+}
+
+.fish {
+	font-style: underlined; 
+}
+
+a {
+	display: block;
+}
+
+a::first-letter {
+	font-size:24px;
+}
+
+a:visited {
+	color:red;
+}
+
+
+
